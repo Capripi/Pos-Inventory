@@ -8,9 +8,9 @@
           <router-link to="/Sidebar">Sidebar</router-link>
           <router-link to="/Footer">Footer</router-link> -->
           <!-- <Navbar/> -->
-          <transition name="slide" mode="out-in">
+          <!-- <transition name="slide" mode="out-in"> -->
                   <router-view></router-view>
-          </transition>
+          <!-- </transition> -->
           <!-- <Sidebar/> -->
           <!-- <Content/> -->
           <!-- <Footer/> -->
