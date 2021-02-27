@@ -42,12 +42,12 @@ export default {
 <style  scoped>
 @import "./assets/Css/style.css"; 
 /* @import "./assets/admin-lte/css/adminlte.scss"; */
-.slide-enter-active , .slide-enter-active{
+/* .slide-enter-active , .slide-enter-active{
   transition: opacity 1 , transform 1;
 }
 .slide-leave , .slide-leave-to{
   opacity: 0;
   transform: translateX(-30%);
 
-}
+} */
 </style>
