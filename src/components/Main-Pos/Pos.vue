@@ -172,11 +172,9 @@
                                                             <!-- body code -->
                                                             <tr v-for="(content , index) in tableRows" v-bind:key="content.id">
                                                                 <td>
-                                                                    <button class="fa fa-edit pointer" @click="edit = !edit">
-                                                                        &nbsp;
-                                                                        <a title="" class="pointer text-bold">Rado Watch </a> 
-                                                                    </button>
-                                                                    </td>
+                                                                    <a title="" class="pointer text-bold">Rado Watch </a> 
+                                                                    <i class="fa fa-edit"></i>  
+                                                                </td>
                                                                 <td>54.00</td>
                                                                 <td>
                                                                     <div class="input-group input-group-sm">
@@ -660,8 +658,6 @@ export default {
             tableRows:[],
             counter:0,
             incre:0,
-            edit : true
-
         }
     },
     
