@@ -314,10 +314,10 @@
                                                             <img src="@/assets/Img/logo2.png" alt="image Not Found" style="height:60px" class=" img-responsive border border-gray">
                                                         </center>
                                                         <center class="py-3">
-                                                        <label class="text-center" style="cursor: pointer; color:black;">Rado Watch
-                                                        <br>    
+                                                            <label class="text-center" style="cursor: pointer; color:black;">Rado Watch
+                                                            <br>    
                                                             <span>$ 20,00</span>
-                                                        </label>
+                                                            </label>
                                                         </center>
                                                     </div>
                                                 </div>
@@ -330,7 +330,7 @@
                                                             <img src="@/assets/Img/logo2.png" alt="image Not Found" style="height:60px" class=" img-responsive border border-gray">
                                                         </center>
                                                         <center class="py-3">
-                                                        <label class="text-center" style="cursor: pointer; color:black;">Armani Jacket
+                                                        <label class="text-center" style="cursor: pointer; color:black;">Rado Watch 
                                                         <br>    
                                                             <span>₹ 20,768.00</span>
                                                         </label>
